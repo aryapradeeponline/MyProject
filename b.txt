@@ -1,2 +1,2 @@
 This is B file
-This is second line added
+
