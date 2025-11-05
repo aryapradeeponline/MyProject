@@ -1,0 +1,41 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+ name: javawebappsvc
+spec:
+ type: LoadBalancer
+ selector:
+  app: javawebapp
+ ports:
+ - port: 80
+   targetPort: 8080
+...
+
+Scope India 10:54 PM
+---
+apiVersion: v1
+kind: Pod
+metadata:
+ name: javawebapppod
+ labels:
+  app: javawebapp
+spec:
+ containers:
+ - name: javawebappcontainer
+   image: vinodses/my-web-app
+   ports:
+   - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+ name: javawebappsvc
+spec:
+ type: LoadBalancer
+ selector:
+  app: javawebapp
+ ports:
+  - port: 80
+    targetPort: 8080
+...
