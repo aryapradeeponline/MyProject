@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1762346390,,"q!"
 :wq!
 |2,0,1762343778,,"wq!"
-:q!
-|2,0,1762343351,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,36 +27,56 @@
 # Registers:
 
 # File marks:
-'0  41  0  ~/pod-service-manifest.yml
-|4,48,41,0,1762343778,"~/pod-service-manifest.yml"
-'1  41  2  ~/pod-service-manifest.yml
-|4,49,41,2,1762343766,"~/pod-service-manifest.yml"
-'2  13  2  ~/service-manifest.yml
-|4,50,13,2,1762343351,"~/service-manifest.yml"
-'3  14  2  ~/k8s-pod-manifest.yml
-|4,51,14,2,1762343335,"~/k8s-pod-manifest.yml"
-'4  13  2  ~/service-manifest.yml
-|4,52,13,2,1762342930,"~/service-manifest.yml"
-'5  14  2  ~/k8s-pod-manifest.yml
-|4,53,14,2,1762342346,"~/k8s-pod-manifest.yml"
+'0  3  0  ~/.gitconfig
+|4,48,3,0,1762346390,"~/.gitconfig"
+'1  41  0  ~/pod-service-manifest.yml
+|4,49,41,0,1762343778,"~/pod-service-manifest.yml"
+'2  41  2  ~/pod-service-manifest.yml
+|4,50,41,2,1762343766,"~/pod-service-manifest.yml"
+'3  13  2  ~/service-manifest.yml
+|4,51,13,2,1762343351,"~/service-manifest.yml"
+'4  14  2  ~/k8s-pod-manifest.yml
+|4,52,14,2,1762343335,"~/k8s-pod-manifest.yml"
+'5  13  2  ~/service-manifest.yml
+|4,53,13,2,1762342930,"~/service-manifest.yml"
 '6  14  2  ~/k8s-pod-manifest.yml
-|4,54,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,54,14,2,1762342346,"~/k8s-pod-manifest.yml"
 '7  14  2  ~/k8s-pod-manifest.yml
 |4,55,14,2,1762342243,"~/k8s-pod-manifest.yml"
 '8  14  2  ~/k8s-pod-manifest.yml
-|4,56,14,2,1762341836,"~/k8s-pod-manifest.yml"
+|4,56,14,2,1762342243,"~/k8s-pod-manifest.yml"
 '9  14  2  ~/k8s-pod-manifest.yml
 |4,57,14,2,1762341836,"~/k8s-pod-manifest.yml"
 
 # Jumplist (newest first):
+-'  3  0  ~/.gitconfig
+|4,39,3,0,1762346390,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1762346374,"~/.gitconfig"
 -'  41  0  ~/pod-service-manifest.yml
 |4,39,41,0,1762343778,"~/pod-service-manifest.yml"
+-'  41  0  ~/pod-service-manifest.yml
+|4,39,41,0,1762343778,"~/pod-service-manifest.yml"
+-'  41  2  ~/pod-service-manifest.yml
+|4,39,41,2,1762343766,"~/pod-service-manifest.yml"
 -'  41  2  ~/pod-service-manifest.yml
 |4,39,41,2,1762343766,"~/pod-service-manifest.yml"
 -'  1  0  ~/pod-service-manifest.yml
 |4,39,1,0,1762343711,"~/pod-service-manifest.yml"
 -'  1  0  ~/pod-service-manifest.yml
 |4,39,1,0,1762343711,"~/pod-service-manifest.yml"
+-'  1  0  ~/pod-service-manifest.yml
+|4,39,1,0,1762343711,"~/pod-service-manifest.yml"
+-'  1  0  ~/pod-service-manifest.yml
+|4,39,1,0,1762343711,"~/pod-service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762343351,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762343351,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762343351,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762343351,"~/service-manifest.yml"
 -'  13  2  ~/service-manifest.yml
 |4,39,13,2,1762343351,"~/service-manifest.yml"
 -'  13  2  ~/service-manifest.yml
@@ -81,6 +101,38 @@
 |4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
 |4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  14  2  ~/k8s-pod-manifest.yml
+|4,39,14,2,1762343335,"~/k8s-pod-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
+-'  13  2  ~/service-manifest.yml
+|4,39,13,2,1762342930,"~/service-manifest.yml"
 -'  13  2  ~/service-manifest.yml
 |4,39,13,2,1762342930,"~/service-manifest.yml"
 -'  13  2  ~/service-manifest.yml
@@ -121,6 +173,30 @@
 |4,39,1,0,1762342908,"~/service-manifest.yml"
 -'  1  0  ~/service-manifest.yml
 |4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
+-'  1  0  ~/service-manifest.yml
+|4,39,1,0,1762342908,"~/service-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
 |4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
@@ -154,103 +230,31 @@
 -'  14  2  ~/k8s-pod-manifest.yml
 |4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 -'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762342243,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  14  2  ~/k8s-pod-manifest.yml
-|4,39,14,2,1762341836,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
--'  1  0  ~/k8s-pod-manifest.yml
-|4,39,1,0,1762341807,"~/k8s-pod-manifest.yml"
+|4,39,14,2,1762342346,"~/k8s-pod-manifest.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1762346386	0
+	"	3	0
 
 > ~/pod-service-manifest.yml
 	*	1762343777	0
